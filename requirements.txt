@@ -34,5 +34,6 @@ PyYAML==6.0.1
 xgboost>=1.7.6
 
 neuro-mf==0.0.5
+Werkzeug
 
 #-e.
