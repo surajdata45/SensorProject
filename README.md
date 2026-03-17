@@ -46,8 +46,7 @@ This project aims to **automate fault detection** using data-driven machine lear
 
 ---
 
-## 📸 Screenshots
-(Add graphs, EDA plots, or output images here)
+## 📸 Screenshots)
 <img width="308" height="365" alt="Screenshot of sensor" src="https://github.com/user-attachments/assets/aba495b4-afcb-440a-a934-1e8353e1a294" />
 
 ---
